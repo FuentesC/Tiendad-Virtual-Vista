@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TiendaVirtualVistaConnectionString-Web.config Connection String" description="TiendaVirtualVistaConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString1-Web.config Connection String" description="TiendaVirtualVistaConnectionString1 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString1']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString2-Web.config Connection String" description="TiendaVirtualVistaConnectionString2 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString3-Web.config Connection String" description="TiendaVirtualVistaConnectionString3 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString3']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString4-Web.config Connection String" description="TiendaVirtualVistaConnectionString4 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString4']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString5-Web.config Connection String" description="TiendaVirtualVistaConnectionString5 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString5']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString6-Web.config Connection String" description="TiendaVirtualVistaConnectionString6 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString6']/@connectionString" />
+  </parameter>
+  <parameter name="TiendaVirtualVistaConnectionString7-Web.config Connection String" description="TiendaVirtualVistaConnectionString7 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=LAPTOP-PUN8RU8B;Initial Catalog=TiendaVirtualVista;User ID=sa;Password=andres123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Andres\\Desktop\\Backend_TiendaVV\\APIs\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TiendaVirtualVistaConnectionString7']/@connectionString" />
+  </parameter>
+</parameters>
